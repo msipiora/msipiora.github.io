@@ -1,0 +1,23 @@
+body { 
+	background-color: green;
+}
+
+h1 {
+	margin: auto;
+	color: green;
+}
+h3 {
+	margin-right: 400px;
+	margin-top: 40px;
+	color: pink;
+	background-color: grey;
+}
+.boldClass {
+	font-weight: bold:;
+}.orangeClass {
+	font-style: "Helvetica";
+	font-size: 30px;
+}
+#bigID {
+	font-size: 24px;
+}

@@ -1,0 +1,32 @@
+body { 
+	background-color: pink;
+}
+header {font-weight: bold;
+font-size: 40px}
+p { padding: 50px;
+	border-style:dotted;
+	border-width: 5px;
+	border-color: grey;
+}
+h1 { padding: 50px;
+	border-style:dotted;
+	border-width: 5px;
+	border-color: grey;
+}
+h2 {
+	color: blue;
+}
+h3 { padding: 50px;
+	border-style:dotted;
+	border-width: 5px;
+	border-color: grey;
+}
+.boldClass {
+	font-weight: bold: italic;
+	font-size: 40px
+}.orangeClass {
+	font-style: 
+}
+#bigID {
+	font-size: 24px;
+}

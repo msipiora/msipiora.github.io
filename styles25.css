@@ -1,0 +1,18 @@
+body {
+	background-color: pink;
+}
+h1 {
+	color: green;
+	margin-left: 45px;
+}.boldClass {
+	color: brown; margin-right: 70px;
+}
+#bigID {
+	font-size: 40px;
+}
+
+p {
+	color; green;
+
+	font-family: : "Helvetica";
+}
